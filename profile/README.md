@@ -17,7 +17,9 @@ A Player can refuse to hand in their key(s) and then the game isn’t securely v
 
 Our proof of concept will address the first problem providing protocols and an infrastructure for mental poker which can easily be adopted by any poker or gaming client. This dramatically reduces the effort while simultaneously serving many other possible ventures that would be thus incentive to use the same protocol.
 
-We address the second problem by using third parties as “insurance” agents. What [Nick Szabo would typically describe as security holes](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/ttps.html) actually become [trustworthy third parties](https://unenumerated.blogspot.com/2014/12/the-dawn-of-trustworthy-computing.html) because of the nature of the separation of duties such an “insurer” role would imply.
+We address the second problem by using third parties as “insurance” agents. What [Nick Szabo would typically describe as security holes](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/ttps.html) actually become [trustworthy third parties](https://unenumerated.blogspot.com/2014/12/the-dawn-of-trustworthy-computing.html) because of the nature of the separation of duties such an “insurer” role would imply. This is not unlike the driving force behind [Hal Finney's Theory of Bitcoin Backed Banks](https://github.com/jalToorey/IdealMoney/wiki/Hal-Finney's-Theory-of-Bitcoin-Backed-Banks) as Hal explained:
+
+> George Selgin has worked out the theory of competitive free banking in detail, and he argues that such a system would be stable, inflation resistant and self-regulating
 
 We also mean to consider, in our design, how the separation of such duties (traditionally a centralized poker site is poker the protocol and insurance provider) might have with respect to positive legal based benefits.
 

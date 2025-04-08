@@ -1,4 +1,4 @@
-
+Client, Server, adminConsole demos and instructions here: https://github.com/pogn-protocol/pogn
 # Poker and Other Games on Nostr
 
 In order to decentralize the poker industry we need a proof of concept which is modular enough to evolve into a full fledged protocol in which other poker sites and skin’s can use for the basis of their projects.
